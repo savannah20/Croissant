@@ -13,3 +13,6 @@ footer {
   display: block;
   margin: 30px auto;
 }
+a {
+  padding: 10px;
+}
